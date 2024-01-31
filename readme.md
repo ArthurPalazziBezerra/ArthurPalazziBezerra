@@ -1,3 +1,14 @@
+Olá meu nome é Arthur Palazzi, sou um programador back-end com conhecimento em python com foco em criar automatizações.
+
+
+Atual Dono da HelloWorlddevbr, pagina que ajuda pessoas a ingressarem no universo da programação.
+
+
+Amante dos estudos, leitor de diversos livros sobre python e lingua inglesa.
+
+
+
+
 Conhecimento em:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
