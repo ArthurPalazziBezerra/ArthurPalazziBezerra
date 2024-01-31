@@ -1,4 +1,4 @@
-<h1> Olá meu nome é Arthur Palazzi <h1/>
+<h1> Olá meu nome é Arthur Palazzi </h1>
 
 
 Sou um programador back-end com conhecimento em python com foco em criar automatizações.
