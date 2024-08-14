@@ -1,13 +1,9 @@
 <h1> Olá meu nome é Arthur Palazzi </h1>
+Sou um programador back-end com forte conhecimento em Python, focado em criar soluções de automatização e análise de dados. Atualmente, estou aprofundando meus conhecimentos em análise de dados, utilizando ferramentas como SQL, NumPy, Seaborn, e Pandas para extrair insights valiosos e construir modelos preditivos.
 
+Atualmente, sou o dono da HelloWorlddevbr, uma página dedicada a ajudar as pessoas a ingressarem no universo da programação, oferecendo recursos, tutoriais e suporte para novos programadores.
 
-Sou um programador back-end com conhecimento em python com foco em criar automatizações.
-
-
-Atual Dono da HelloWorlddevbr, pagina que ajuda pessoas a ingressarem no universo da programação.
-
-
-Amante dos estudos, leitor de diversos livros sobre python e lingua inglesa.
+Sou um amante dos estudos e um leitor ávido de livros sobre Python e a língua inglesa. Estou sempre em busca de novos conhecimentos e desafios que possam expandir minha expertise e melhorar minhas habilidades técnicas.
 
 
 
@@ -22,8 +18,6 @@ Conhecimento em:
 
 
 Conhecimentos Extras:
-![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
-![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white)
+
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
-![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
