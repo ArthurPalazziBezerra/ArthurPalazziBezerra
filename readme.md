@@ -1,9 +1,11 @@
 <h1> Olá meu nome é Arthur Palazzi </h1>
-Sou um programador back-end com forte conhecimento em Python, focado em criar soluções de automatização e análise de dados. Atualmente, estou aprofundando meus conhecimentos em análise de dados, utilizando ferramentas como SQL, NumPy, Seaborn, e Pandas para extrair insights valiosos e construir modelos preditivos.
+Atuo como Analista de Dados, especializado em transformar dados brutos em informações estratégicas que geram impacto direto nos resultados do negócio. Tenho experiência na construção de bases de dados robustas, automações inteligentes, modelagem estatística e desenvolvimento de soluções analíticas que apoiam decisões corporativas e melhoram processos internos.
 
-Atualmente, sou o dono da HelloWorlddevbr, uma página dedicada a ajudar as pessoas a ingressarem no universo da programação, oferecendo recursos, tutoriais e suporte para novos programadores.
+Domino ferramentas como Power BI, Python (Pandas, NumPy), SQL, Excel Avançado e Power Query, além de conhecimentos sólidos em R e Machine Learning. Meu trabalho envolve desde a coleta e tratamento de dados até a criação de dashboards intuitivos, análises preditivas e storytelling orientado a resultados.
 
-Sou um amante dos estudos e um leitor ávido de livros sobre Python e a língua inglesa. Estou sempre em busca de novos conhecimentos e desafios que possam expandir minha expertise e melhorar minhas habilidades técnicas.
+Tenho domínio de conceitos fundamentais de estatística aplicada, incluindo Regressão Linear e Logística, probabilidade, testes de hipótese, ANOVA, Qui-quadrado e estudo de distribuições estatísticas, aplicando essas técnicas para embasar soluções analíticas com rigor e precisão.
+
+Além da atuação técnica, possuo experiência em gestão de projetos e boas práticas de visualização. Busco oportunidades como Analista de Dados ou Cientista de Dados, com o objetivo de criar soluções analíticas eficientes, desenvolver modelos preditivos, automatizar processos e contribuir com projetos inovadores que utilizem dados como fator estratégico para crescimento e tomada de decisão.
 
 
 
